@@ -47,7 +47,7 @@ Hotel-Cancellation-Prediction/
 │    └── index.html                             # Web UI for prediction
 │
 └── README.md                                   # Project documentation
-
+```
 # 🔗 Download the Model File
 
 You can download the pre-trained model here:
