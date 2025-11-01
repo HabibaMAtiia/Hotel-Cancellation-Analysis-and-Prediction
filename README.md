@@ -87,18 +87,21 @@ app.py loads the trained model:
 ## ▶️ Run the Application Locally
 
 ### ✅ Step 1: Install dependencies
+```bash
 pip install -r requirements.txt
-
+```
 ### ✅ Step 2: Ensure the model file exists
-
 Place the trained model in the project root:
 RF.pkl
 
 ### ✅ Step 3: Start the Flask server
+```bash
 python app.py
-
+```
 ### ✅ Step 4: Open your browser
+```bash
 http://127.0.0.1:5000/
+```
 
 ## 📈 Future Improvements
 
