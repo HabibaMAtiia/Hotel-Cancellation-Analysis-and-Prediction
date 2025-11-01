@@ -76,7 +76,7 @@ Inside the notebook (Hotel Cancellation Analysis and Prediction.ipynb):
 
 - Model evaluation
 
-- Saving the best model
+- Saving the best model (Random Forest Model)
 
 ### 2️⃣ Deployment Phase
 
