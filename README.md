@@ -92,8 +92,9 @@ pip install -r requirements.txt
 ```
 ### ✅ Step 2: Ensure the model file exists
 Place the trained model in the project root:
+```bash
 RF.pkl
-
+```
 ### ✅ Step 3: Start the Flask server
 ```bash
 python app.py
