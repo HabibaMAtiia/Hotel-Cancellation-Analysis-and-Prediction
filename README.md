@@ -36,6 +36,7 @@ The workflow includes:
 - HTML template (index.html)
 
 # 📂 Project Structure
+```bash
 Hotel-Cancellation-Prediction/
 │
 ├── app.py                                      # Flask backend app
