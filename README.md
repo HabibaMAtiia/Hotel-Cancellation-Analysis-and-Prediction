@@ -1,7 +1,7 @@
 # 📊 Hotel-Cancellation-Analysis-and-Prediction
 A Machine Learning Web App for Predicting Hotel Booking Cancellations
 
-# ✅ Overview
+## ✅ Overview
 
 This project is a complete end-to-end machine learning system designed to predict hotel reservation cancellations based on customer and booking details.
 The workflow includes:
@@ -16,8 +16,8 @@ The workflow includes:
 
 - Interactive UI for prediction.
 
-# 🧠 Tech Stack
-## Machine Learning
+## 🧠 Tech Stack
+### Machine Learning
 
 - Scikit-learn
 
@@ -25,17 +25,17 @@ The workflow includes:
 
 - pandas
 
-## Model Deployment
+### Model Deployment
 
 - Flask
 
 - Pickle (pickle library for serialization)
 
-## Frontend
+### Frontend
 
 - HTML template (index.html)
 
-# 📂 Project Structure
+## 📂 Project Structure
 ```bash
 Hotel-Cancellation-Prediction/
 │
@@ -48,15 +48,15 @@ Hotel-Cancellation-Prediction/
 │
 └── README.md                                   # Project documentation
 ```
-# 🔗 Download the Model File
+## 🔗 Download the Model File
 
 You can download the pre-trained model here:
 
 👉 [Download RF.pkl](https://drive.google.com/file/d/1FAqrRkAWwGpJUbPIEAhTTIun9w-4e1Mj/view?usp=drive_link)
 
-# 🚀 How It Works
+## 🚀 How It Works
 
-## 1️⃣ Training Phase
+### 1️⃣ Training Phase
 
 Inside the notebook (Hotel Cancellation Analysis and Prediction.ipynb):
 
@@ -78,28 +78,29 @@ Inside the notebook (Hotel Cancellation Analysis and Prediction.ipynb):
 
 - Saving the best model
 
-## 2️⃣ Deployment Phase
+### 2️⃣ Deployment Phase
 
 app.py loads the trained model:
 
 - User inputs → Model predicts → UI displays result.
 
-# ▶️ Run the Application Locally
-## ✅ Step 1: Install dependencies
+## ▶️ Run the Application Locally
+
+### ✅ Step 1: Install dependencies
 pip install -r requirements.txt
 
-## ✅ Step 2: Ensure the model file exists
+### ✅ Step 2: Ensure the model file exists
 
 Place the trained model in the project root:
 RF.pkl
 
-## ✅ Step 3: Start the Flask server
+### ✅ Step 3: Start the Flask server
 python app.py
 
-## ✅ Step 4: Open your browser
+### ✅ Step 4: Open your browser
 http://127.0.0.1:5000/
 
-# 📈 Future Improvements
+## 📈 Future Improvements
 
 - Add interactive dashboard
 
@@ -109,6 +110,6 @@ http://127.0.0.1:5000/
 
 - Add model monitoring for real-time hotel systems
 
-# 👩‍💻 Author
+## 👩‍💻 Author
 
 Habiba M. Attia
