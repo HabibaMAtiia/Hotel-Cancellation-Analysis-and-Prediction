@@ -14,13 +14,11 @@ The workflow includes:
 - Interactive UI for prediction.
 
 ## 🧠 Tech Stack
-### Data Analysis
+### Data Preprocessing & Analysis
+- Python Libraries (Pandas, NumPy, Matplotlib, Seaborn and Plotly)
 - SQL
-- Python Libraries (Matplotlib, Seaborn and Plotly)
 ### Machine Learning
 - Scikit-learn
-- NumPy
-- pandas
 ### Model Deployment
 - Flask
 - Pickle (pickle library for serialization)
