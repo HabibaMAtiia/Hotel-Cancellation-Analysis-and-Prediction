@@ -21,7 +21,7 @@ The workflow includes:
 - Scikit-learn
 ### Model Deployment
 - Flask
-- Pickle (pickle library for serialization)
+- Pickle (for serialization)
 ### Frontend
 - HTML template (index.html)
 
