@@ -7,13 +7,10 @@ This project is a complete end-to-end machine learning system designed to predic
 The workflow includes:
 
 - Data preprocessing & feature engineering.
-
+- Data Analysis using Python & SQL.
 - Model training (Random Forest / Logistic Regression / KNN).
-
 - Saving the best model using Pickle.
-
 - Deploying prediction as a Flask web application.
-
 - Interactive UI for prediction.
 
 ## 🧠 Tech Stack
